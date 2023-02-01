@@ -38,10 +38,9 @@ const Layout = ({ children }) => {
             marginTop: `var(--space-5)`,
             fontSize: `var(--font-sm)`,
           }}
-        >
-          © {new Date().getFullYear()} &middot; Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+        >More about app on{` `}
+
+  <a href="https://www.zillow.com/z/3d-home/your-dashboard/#sharing-your-tour">Zillow</a>
         </footer>
       </div>
     </>
